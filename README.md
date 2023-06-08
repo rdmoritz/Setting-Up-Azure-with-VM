@@ -15,5 +15,9 @@ Microsoft Azure
 <h2>Summary</h2>
 
 I'm not showing the creation of setting up a Microsoft Azure account in this demonstration.  I'm assuming most of it is self explanatory.  You just need to go to www.portal.azure.com and setup a new account.
-So once the Azure account is created we next need to setup a Resource Group as follows.
+So once the Azure account is created we next need to setup a Resource Group
+
+Start by clicking the "<u>+ Create A Resource"</u> as shown below.
+
+<img src="https://i.imgur.com/cDk5Zdx.png" height="80%" width="80%" alt="Create Resours Group"/>
 
